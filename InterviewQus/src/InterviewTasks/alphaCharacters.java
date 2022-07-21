@@ -20,5 +20,8 @@ public class alphaCharacters {
             }
         }
         System.out.println(result);
+        System.out.println("*********************************");
+        System.out.println("*********************************");
+        System.out.println("*********************************");
     }
 }
